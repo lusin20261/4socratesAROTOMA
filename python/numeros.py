@@ -1,0 +1,6 @@
+a = input ("Ingresa el primer número")
+b = input ("ingres el segundo número")
+a = int (a)
+b = int (b)
+print ("la multiplicacion es : ",a*b )
+print ("la division es : ",a/b)
